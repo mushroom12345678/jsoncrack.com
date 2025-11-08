@@ -38,6 +38,20 @@
         "fiber": "2.4g",
         "vitaminC": "53.2mg"
       }
+    },
+    {
+      "name": "Blueberry",
+      "color": "#4169E1",
+      "details": {
+        "type": "Berry",
+        "season": "Summer"
+      },
+      "nutrients": {
+        "calories": 57,
+        "fiber": "2.4g",
+        "vitaminC": "9.7mg",
+        "antioxidants": "high"
+      }
     }
   ]
 }
